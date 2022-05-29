@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<application name=" " description="" >
+	<sarfile name="Distribu_010101_20210612T173819_GMT_schema.jar" order="1"/>
+	<parfile name="Distribu_010101_20210612T173819_GMT_rules.jar" order="2"/>
+</application>

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-04-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Distribu
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2021-Jun-12 00:00:00
+PRPC-Engine: 8.4.0 PRPC-8.4.0-237 ()
+Operator: author@gogoroad
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: Distribu_010101_20210612T173819_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2021-Jun-12 13:38:27
+Pega-Codeset-Name: Customer
+Instance-Count: 2420
+
+Name: FileMetadata
+
